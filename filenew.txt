@@ -1,0 +1,2 @@
+Today is first day for practise. 
+Let us learn git.
